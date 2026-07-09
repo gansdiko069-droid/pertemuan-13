@@ -37,9 +37,11 @@ Aplikasi ini dirancang untuk memenuhi tugas Pertemuan 13, berfokus pada implemen
 
 ## 📸 Dokumentasi & Screenshot
 
-| 1. Tampilan awal | 2. Hasil Foto  | 3. Kordinasi di tambahkan |
+## 📸 Dokumentasi & Screenshot
+
+| 1. Tampilan Awal | 2. Hasil Foto | 3. Koordinat Ditambahkan |
 | :-: | :-: | :-: |
-| !(.../assets/foto1.png) | | !(.../assets/foto2.png) | | !(.../assets/foto3.png) |
+| ![Tampilan Awal](./assets/foto.png) | ![Hasil Foto](./assets/fotoo.png) | ![Koordinat Ditambahkan](./assets/fotooo.png) |
 
 👉 **[Link Live Preview di Expo Snack](https://snack.expo.dev/@diko-dev/calm-violet-almond)**
 
