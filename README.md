@@ -34,14 +34,23 @@ Aplikasi ini dirancang untuk memenuhi tugas Pertemuan 13, berfokus pada implemen
   * `@react-native-async-storage/async-storage` (Persistensi Data Lokal)
 
 ---
-
 ## 📸 Dokumentasi & Screenshot
 
-## 📸 Dokumentasi & Screenshot
+### 1. Tampilan Awal
+Tampilan utama aplikasi saat pertama kali dijalankan sebelum mengambil foto dan lokasi.
+![Tampilan Awal](./assets/foto.png)
 
-| 1. Tampilan Awal | 2. Hasil Foto | 3. Koordinat Ditambahkan |
-| :-: | :-: | :-: |
-| ![Tampilan Awal](./assets/foto.png) | ![Hasil Foto](./assets/fotoo.png) | ![Koordinat Ditambahkan](./assets/fotooo.png) |
+---
+
+### 2. Hasil Foto Profil
+Hasil pembaruan foto profil setelah diambil melalui integrasi fitur kamera/galeri native.
+![Hasil Foto](./assets/fotoo.png)
+
+---
+
+### 3. Koordinat GPS Ditambahkan
+Tampilan koordinat Latitude dan Longitude yang berhasil didapatkan secara akurat dari sensor GPS perangkat.
+![Koordinat Ditambahkan](./assets/fotooo.png)
 
 👉 **[Link Live Preview di Expo Snack](https://snack.expo.dev/@diko-dev/calm-violet-almond)**
 
