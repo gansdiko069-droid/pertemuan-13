@@ -37,7 +37,7 @@ Aplikasi ini dirancang untuk memenuhi tugas Pertemuan 13, berfokus pada implemen
 
 ## 📸 Dokumentasi & Screenshot
 
-| 1. Dialog Izin & Pilihan | 2. Hasil Foto & Lokasi | 3. Penanganan Penolakan |
+| 1. Tampilan awal | 2. Hasil Foto  | 3. Kordinasi di tambahkan |
 | :-: | :-: | :-: |
 | ![Dialog Izin & Pilihan](./assets/foto.png) | ![Hasil Foto Lokasi](./assets/foto3.png) | ![Penanganan Penolakan](./assets/foto2.png) |
 | *Meminta izin akses & menampilkan opsi Kamera/Galeri.* | *Foto profil berubah dan koordinat GPS berhasil didapatkan.* | *Pesan edukatif ramah saat pengguna menolak memberikan izin.* |
