@@ -39,12 +39,8 @@ Aplikasi ini dirancang untuk memenuhi tugas Pertemuan 13, berfokus pada implemen
 
 | 1. Tampilan awal | 2. Hasil Foto  | 3. Kordinasi di tambahkan |
 | :-: | :-: | :-: |
-| ![Dialog Izin & Pilihan](./assets/foto.png) | ![Hasil Foto Lokasi](./assets/foto3.png) | ![Penanganan Penolakan](./assets/foto2.png) |
-| *Meminta izin akses & menampilkan opsi Kamera/Galeri.* | *Foto profil berubah dan koordinat GPS berhasil didapatkan.* | *Pesan edukatif ramah saat pengguna menolak memberikan izin.* |
+| !(./assets/foto.png) | !(./assets/foto3.png) | !(./assets/foto2.png) |
 
-> 💡 **Catatan Pengumpulan:** Pastikan Anda telah mengambil 3 screenshot tersebut dari HP Anda, buat folder bernama `screenshots` di proyek Anda, lalu simpan file fotonya dengan nama `dialog_izin.png`, `hasil_foto.png`, dan `penolakan_izin.png`.
-
----
 
 👉 **[Link Live Preview di Expo Snack](https://snack.expo.dev/@diko-dev/calm-violet-almond)**
 
